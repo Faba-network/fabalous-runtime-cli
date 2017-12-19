@@ -1,6 +1,6 @@
 {
   "name": "@fabalous/runtime-cli",
-  "version": "0.0.01",
+  "version": "0.0.1",
   "description": "Fabalous CLI runtime",
   "scripts": {
     "postversion": "npm run build && git push && git push --tags && npm publish",
