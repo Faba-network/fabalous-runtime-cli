@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "sourceMap": true,
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "noEmitHelpers": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictNullChecks": true,
+    "outDir": "./lib/",
+    "sourceRoot": "./",
+    "declaration": true,
+    "importHelpers": true
+  },
+  "exclude": [
+    "node_modules",
+    "test"
+  ]
+}
